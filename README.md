@@ -1,1 +1,1 @@
-# GNN_UOK_Workshop
+# The Association of Internet of Things, University of Kurdistan, Iran, 1th December 2021.![GNN-Workshop](https://user-images.githubusercontent.com/63147943/144089645-4ca31900-8d39-4879-aaaf-e546501c3cb9.jpg)
